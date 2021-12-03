@@ -1,0 +1,4 @@
+﻿  lab-8.1.4.cpp
+C:\Users\Roma\source\repos\lab-8.1.4\lab-8.1.4.cpp(28,19): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Roma\source\repos\lab-8.1.4\lab-8.1.4.cpp(28,14): warning C4309: 'initializing': truncation of constant value
+  lab-8.1.4.vcxproj -> C:\Users\Roma\source\repos\lab-8.1.4\Debug\lab-8.1.4.exe
